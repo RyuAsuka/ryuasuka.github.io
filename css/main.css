@@ -1,0 +1,70 @@
+p#basic {
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+h1, h4, p{
+    color: #fff;
+    text-shadow: 0 8px 5px rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron h1 {
+    color: #fff;
+}
+.myname {
+    color: #fff;
+    font-weight: bold;
+}
+
+p#copyrights {
+     color: #000;
+     text-shadow: 0 0 0 #000;
+ }
+
+p#contact {
+    color: #000;
+    text-shadow: 0 0 0 #000;
+}
+
+#header {
+    background: url("../imgs/34.jpg") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    border-radius: 0%;
+}
+
+.card {
+    border-radius: 25px;
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px;
+    -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.mytable1 {
+    padding: 0 1px 0 1px;
+    text-align: left;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid #FFF;
+    -webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
+    -moz-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
+    background: url("../imgs/head.jpg") no-repeat center center;
+}
+
+.card-subtitle {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #CCCCCC;
+}
