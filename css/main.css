@@ -3,7 +3,7 @@ p#basic {
     font-size: larger;
 }
 
-h1, h4, p{
+h1, h4, p {
     color: #fff;
     text-shadow: 0 8px 5px rgba(0, 0, 0, 0.5);
 }
@@ -11,15 +11,16 @@ h1, h4, p{
 .jumbotron h1 {
     color: #fff;
 }
+
 .myname {
     color: #fff;
     font-weight: bold;
 }
 
 p#copyrights {
-     color: #000;
-     text-shadow: 0 0 0 #000;
- }
+    color: #000;
+    text-shadow: 0 0 0 #000;
+}
 
 p#contact {
     color: #000;
@@ -58,9 +59,9 @@ p#contact {
     height: 200px;
     border-radius: 50%;
     border: 10px solid #FFF;
-    -webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
-    -moz-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
-    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
     background: url("../imgs/head.jpg") no-repeat center center;
 }
 
