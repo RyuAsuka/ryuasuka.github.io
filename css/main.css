@@ -27,6 +27,11 @@ p#contact {
     text-shadow: 0 0 0 #000;
 }
 
+p.normal {
+    color: #000;
+    text-shadow: none;
+}
+
 #header {
     background: url("../imgs/1.jpg") no-repeat;
     -webkit-background-size: 100% 100%;
